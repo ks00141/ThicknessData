@@ -107,12 +107,6 @@ namespace ThicknessDataTest
             {
                 Console.WriteLine(str);
             }
-            /*int lotCount = lotDict.Keys.Count;
-            string[] lotList = new string[lotCount];
-            lotDict.Keys.CopyTo(lotList,0);
-            Console.WriteLine(lotList[0]);*/
-
-
         }
     }
 }
