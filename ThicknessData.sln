@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThicknessData", "ThicknessData\ThicknessData.csproj", "{7B8A0E78-67EF-4A01-93EC-A9368C7E4BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThicknessDataTest", "ThicknessDataTest\ThicknessDataTest.csproj", "{7850F1BB-E3D3-4DAD-80D3-29BFAB57E3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8A0E78-67EF-4A01-93EC-A9368C7E4BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8A0E78-67EF-4A01-93EC-A9368C7E4BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8A0E78-67EF-4A01-93EC-A9368C7E4BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8A0E78-67EF-4A01-93EC-A9368C7E4BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7850F1BB-E3D3-4DAD-80D3-29BFAB57E3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7850F1BB-E3D3-4DAD-80D3-29BFAB57E3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7850F1BB-E3D3-4DAD-80D3-29BFAB57E3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7850F1BB-E3D3-4DAD-80D3-29BFAB57E3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543290A4-BCE7-432A-ADB0-6F0193D41FD8}
+	EndGlobalSection
+EndGlobal
